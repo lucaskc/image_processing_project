@@ -1,5 +1,9 @@
 # Esteganografia no domínio das frequências
 
+## Alunos
+### Kauê Lopes De Moraes - 9277576
+### Lucas Kassouf Crocomo - 8937420
+
 ## Proposta
 A ideia geral do projeto é usar técnicas aprendidas ao longo do semestre para fazer um trabalho na área de esteganografia. Basicamente a ideia é passar a imagem do Domínio da Imagem para o Domínio das Frequências, e assim trabalhar nas frequências mais altas para poder esconder uma mensagem. A ideia surgiu ao lembrarmos do funcionamento da compressão feita no formato JPEG, que usa a transformada de Cossenos e elimina de forma inteligente os últimos coeficientes, que usualmente são mais próximos ao zero. No caso, ao invés de apagar esses últimos, trabalharíamos para codificar uma mensagem.
 
